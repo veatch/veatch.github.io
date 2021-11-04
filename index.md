@@ -1,6 +1,4 @@
-## Jason Veatch
-
-Jason is a software engineer in living in Atlanta.
+Jason Veatch is a software engineer in living in Atlanta.
 
 [twitter](https://twitter.com/veatch/)
 
